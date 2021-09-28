@@ -71,7 +71,7 @@ ul{
   padding: 0;
 }
 
-.result, .bad  {
+.paragraphResult, .bad  {
   background: rgb(109, 255, 182);
   padding: 10px;
   text-align: center;
